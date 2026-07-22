@@ -1,0 +1,3 @@
+/home/crispim/Projetos/keylogger/build/CMakeFiles/keylogger.dir
+/home/crispim/Projetos/keylogger/build/CMakeFiles/edit_cache.dir
+/home/crispim/Projetos/keylogger/build/CMakeFiles/rebuild_cache.dir
